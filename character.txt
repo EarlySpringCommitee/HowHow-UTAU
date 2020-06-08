@@ -1,0 +1,5 @@
+name=HowHow
+image=how.bmp
+web=https://git.io/esc
+author=Early Spring Commitee (Hugwalk)
+version=2020.06.08-b1
