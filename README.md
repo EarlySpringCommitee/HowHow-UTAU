@@ -3,6 +3,8 @@ HowHow 的 UTAU 聲音資料庫
 #### 尚處於測試版，若發現問題，請立即回報。
 
 ***
+## 下載
+請到 [Release](https://github.com/EarlySpringCommitee/HowHow-UTAU/releases) 頁面下載
 
 ## 可使用音素
 本聲音資料庫採用中文<b>擴張整音</b>式原音設定，可使用的音素包含：
@@ -31,11 +33,11 @@ HowHow 的 UTAU 聲音資料庫
 
 若有完全無相似發音的缺字，請至 [HowHow-parser](https://github.com/EarlySpringCommitee/HowHow-parser) 提出 [Issues](https://github.com/EarlySpringCommitee/HowHow-parser/issues/)。
 
-## 測試用 UST
+## [測試用 UST](https://github.com/EarlySpringCommitee/HowHow-UTAU/tree/master/%E6%B8%AC%E8%A9%A6%E7%94%A8%20UST)
 歡迎自由修改並使用其他聲音資料庫進行翻唱，請務必標註作者（Hugwalk）。
 
 ## 用途限制
-以 [HowFun 官方發布](https://www.facebook.com/howfunofficial/photos/a.573790389338585/3243404462377151)的標準為規範，您不可使用此聲音資料庫做為商業或任何營利用途。
+以 [HowFun 官方發布](https://www.facebook.com/howfunofficial/photos/a.573790389338585/3243404462377151) 的標準為規範，您不得將此聲音資料庫做為商業或任何營利用途。
 
 ## 使用示例
 -   [在我們的星球眼淚不超過三秒](https://www.youtube.com/watch?v=M2-PMj28Wro)
