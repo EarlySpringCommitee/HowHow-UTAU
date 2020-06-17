@@ -4,9 +4,9 @@ HowHow 的 UTAU 聲音資料庫
 
 ***
 ## 下載
-請到 [Release](https://github.com/EarlySpringCommitee/HowHow-UTAU/releases) 頁面下載
+請至 [Release](https://github.com/EarlySpringCommitee/HowHow-UTAU/releases) 頁面下載。
 
-## 可使用音素
+## 中文可使用音素
 本聲音資料庫採用中文<b>擴張整音</b>式原音設定，可使用的音素包含：
 
 -   音頭　　－ `單獨音`　例如：`kai`、`bei`、`tian`
@@ -15,16 +15,19 @@ HowHow 的 UTAU 聲音資料庫
 
 語尾及語尾息擇一使用即可。
 
-<i>若不會手動拆音，建議使用 [UTAU Incision](https://bowlroll.net/file/71821) 協助，避免韻母不完整而造成發音模糊。</i>
+<i>重要：若不會手動拆音，請使用 [UTAU Incision](https://bowlroll.net/file/71821) 協助，避免韻母不完整而造成發音模糊。</i>
 
 ## 日文
-尚不支援直接輸入日文羅馬拼音，未來可能新增日文專用的 oto.ini，釋出日期未定。
+<b>本區塊說明為 `otoJP.ini` 專用</b>
 
-部分子音缺失請使用相似的發音取代，例如：
+將 `CV` 資料內的 `otoJP.ini` 更名為 `oto.ini` 即可，
+請自行備份原來的 `oto.ini`。
 
--   以 `e0` 取代日文發音 `え e`
--   以 `dei` 取代日文發音 `て te`
--   以 `gei` 取代日文發音 `け ke`
+不支援大部分拗音，請手動拆音，例如：
+
+-   以 `ki` 加上 `ya` 取代日文發音 `きゃ kya`
+-   以 `gi` 加上 `yo` 取代日文發音 `ぎょ gyo`
+-   以 `mi` 加上 `yu` 取代日文發音 `みゅ myu`
 
 部分韻母結尾可以直接合併，例如：
 
@@ -45,6 +48,9 @@ HowHow 的 UTAU 聲音資料庫
 
 -   [How哥宇宙](https://www.youtube.com/watch?v=nZd_9Xansig)
 [![在我們的星球眼淚不超過三秒](https://i.ytimg.com/vi/nZd_9Xansig/maxresdefault.jpg)](https://www.youtube.com/watch?v=nZd_9Xansig)
+
+-   [Ievan Polkka](https://www.youtube.com/watch?v=aY1J6q8UTEc)
+[![在我們的星球眼淚不超過三秒](https://i.ytimg.com/vi/aY1J6q8UTEc/maxresdefault.jpg)](https://www.youtube.com/watch?v=aY1J6q8UTEc)
 
 ***
 
